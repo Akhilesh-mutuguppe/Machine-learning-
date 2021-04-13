@@ -1,1 +1,1 @@
-
+This research focuses on predicting match winning outcome of Indian Premier League (IPL) considering various influencing factors using machine learning algorithms like Logistic regression, Decision Tree and Random Forest. Therefore, we put forth a model to viewers in getting to know the possible probability of match outcome of any T-20 format game. 
